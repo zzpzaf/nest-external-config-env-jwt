@@ -12,7 +12,7 @@ This repo is the clean next step of the [nest-external-config-env](https://githu
 
 Use the url of this repo: https://github.com/zzpzaf/nest-external-config-env-jwt.git to clone it. e.g.,
 
-`git clone hhttps://github.com/zzpzaf/nest-external-config-env-jwt.git`
+`git clone https://github.com/zzpzaf/nest-external-config-env-jwt.git`
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
